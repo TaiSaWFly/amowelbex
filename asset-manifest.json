@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/amwelbex/static/css/main.5cf31b05.css",
-    "main.js": "/amwelbex/static/js/main.3ccd43e9.js",
-    "static/media/logo_welbex.svg": "/amwelbex/static/media/logo_welbex.3c343290f6e5212dfe6da40995b0cc51.svg",
-    "static/media/whatsapp.svg": "/amwelbex/static/media/whatsapp.1ffcda49b87feb30cc12b5f15d527d8c.svg",
-    "static/media/viber.svg": "/amwelbex/static/media/viber.a1bc054f8b67eeadde0fc37c73ea9a11.svg",
-    "index.html": "/amwelbex/index.html",
-    "static/media/telegram.svg": "/amwelbex/static/media/telegram.73a778633977ef2051bca1fcd1554372.svg",
-    "main.5cf31b05.css.map": "/amwelbex/static/css/main.5cf31b05.css.map",
-    "main.3ccd43e9.js.map": "/amwelbex/static/js/main.3ccd43e9.js.map"
+    "main.css": "/amowelbex/static/css/main.5cf31b05.css",
+    "main.js": "/amowelbex/static/js/main.c2ce9094.js",
+    "static/media/logo_welbex.svg": "/amowelbex/static/media/logo_welbex.3c343290f6e5212dfe6da40995b0cc51.svg",
+    "static/media/whatsapp.svg": "/amowelbex/static/media/whatsapp.1ffcda49b87feb30cc12b5f15d527d8c.svg",
+    "static/media/viber.svg": "/amowelbex/static/media/viber.a1bc054f8b67eeadde0fc37c73ea9a11.svg",
+    "index.html": "/amowelbex/index.html",
+    "static/media/telegram.svg": "/amowelbex/static/media/telegram.73a778633977ef2051bca1fcd1554372.svg",
+    "main.5cf31b05.css.map": "/amowelbex/static/css/main.5cf31b05.css.map",
+    "main.c2ce9094.js.map": "/amowelbex/static/js/main.c2ce9094.js.map"
   },
   "entrypoints": [
     "static/css/main.5cf31b05.css",
-    "static/js/main.3ccd43e9.js"
+    "static/js/main.c2ce9094.js"
   ]
 }
